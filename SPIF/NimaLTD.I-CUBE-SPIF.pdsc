@@ -3,7 +3,7 @@
     <vendor>NimaLTD</vendor>
     <name>I-CUBE-SPIF</name>
     <description>SPI Flash Driver for STM32</description>
-    <url>https://github.com/nimaltd/STM32-PACK/raw/main/</url>
+    <url>https://github.com/nimaltd/STM32-PACK/raw/main/SPIF/</url>
     <license>LICENSE.txt</license>
     <releases>
         <release date="2023-11-20" version="2.0.0">- Rewrite Again
