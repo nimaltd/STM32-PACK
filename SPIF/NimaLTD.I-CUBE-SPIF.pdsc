@@ -6,6 +6,8 @@
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/SPIF/</url>
     <license>LICENSE.txt</license>
     <releases>
+        <release date="2023-11-28" version="2.1.0">Support HAL_DMA
+Remove SPIF_Transmit</release>
         <release date="2023-11-21" version="2.0.1">Remove SPIF_Receive
 Add check Page/Sector/Block index</release>
         <release date="2023-11-20" version="2.0.0">- Rewrite Again
