@@ -8,7 +8,7 @@
 -  LinkedIn:   https://www.linkedin.com/in/nimaltd  
 -  Instagram:  https://instagram.com/github.NimaLTD  
 ---
-## Add link into CubeMX and install libraries
+## Add the link to CubeMX and install the libraries
 ---
 - SPI Flash, spif     - https://github.com/nimaltd/STM32-PACK/raw/main/SPIF/NimaLTD.I-CUBE-SPIF.pdsc
 - EEPROM 24xx, ee24   - https://github.com/nimaltd/STM32-PACK/raw/main/EE24/NimaLTD.I-CUBE-EE24.pdsc
