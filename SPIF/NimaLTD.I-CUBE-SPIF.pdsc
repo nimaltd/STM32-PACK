@@ -6,6 +6,7 @@
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/SPIF/</url>
     <license>LICENSE.txt</license>
     <releases>
+        <release date="2024-03-09" version="2.3.0">- Added ThreadX Configuration</release>
         <release date="2024-02-25" version="2.2.2">Fix compile error</release>
         <release date="2024-01-31" version="2.2.1">update SPIF_WriteAddress()</release>
         <release date="2023-12-24" version="2.2.0">Add SPIF_Transmit and SPIF_Receive </release>
