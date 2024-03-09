@@ -6,6 +6,7 @@
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/EE24/</url>
     <license>LICENSE.txt</license>
     <releases>
+        <release date="2024-03-09" version="3.2.0">- Added ThreadX Configuration</release>
         <release date="2024-02-17" version="3.1.0">- Add WP pin control
 - Fix 1Kb and 2Kb memory writing</release>
         <release date="2023-12-24" version="3.0.1">Fix Address</release>
