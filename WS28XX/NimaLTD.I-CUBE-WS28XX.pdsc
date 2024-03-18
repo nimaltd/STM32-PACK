@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package schemaVersion="1.7.2" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
+    <vendor>NimaLTD</vendor>
+    <name>I-CUBE-WS28XX</name>
+    <description>WS28XX LEDs Driver for STM32</description>
+    <url>https://github.com/nimaltd/STM32-PACK/raw/main/WS28XX/</url>
+    <license>LICENSE.txt</license>
+    <releases>
+        <release date="2024-03-18" version="3.0.0">- Rewritten
+- Supported CubeMx Packet installation </release>
+    </releases>
+    <keywords>
+        <keyword>IMPLEMENTED_WITH_STM32CUBEMX</keyword>
+        <keyword>CUBE_RULES_COMPLIANT</keyword>
+    </keywords>
+    <taxonomy>
+        <description Cclass="Driver">Driver</description>
+    </taxonomy>
+    <components>
+        <component Cclass="Driver" Cgroup="WS28XX" Cversion="1.0.0" maxInstances="1">
+            <description>WS28XX LEDs Driver</description>
+            <files>
+                <file category="source" name="Middlewares/Third_Party/WS28XX/ws28xx.c"/>
+                <file category="header" name="Middlewares/Third_Party/WS28XX/ws28xx.h"/>
+            </files>
+        </component>
+    </components>
+</package>
