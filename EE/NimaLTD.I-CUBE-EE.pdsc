@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package schemaVersion="1.7.7" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
+    <vendor>NimaLTD</vendor>
+    <name>I-CUBE-EE</name>
+    <description>EEPROM Emulation Driver for STM32</description>
+    <url>https://github.com/nimaltd/STM32-PACK/raw/main/EE/</url>
+    <license>LICENSE.txt</license>
+    <releases>
+        <release date="2024-03-25" version="3.0.0">- Rewrite Again
+- STM32 Pack Installition support</release>
+    </releases>
+    <keywords>
+        <keyword>CUBE_RULES_COMPLIANT</keyword>
+    </keywords>
+    <taxonomy>
+        <description Cclass="Driver">Driver</description>
+    </taxonomy>
+    <components>
+        <component Cclass="Driver" Cgroup="EE" Cversion="1.0.0" maxInstances="1">
+            <description>EEPROM Emulation Driver</description>
+            <files>
+                <file category="source" name="Middlewares/Third_Party/EE/ee.c"/>
+                <file category="header" name="Middlewares/Third_Party/EE/ee.h"/>
+            </files>
+        </component>
+    </components>
+</package>
