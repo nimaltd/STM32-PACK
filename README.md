@@ -15,7 +15,7 @@
 
 > EEPROM EMULATION
 > https://github.com/nimaltd/STM32-PACK/raw/main/EE/NimaLTD.I-CUBE-EE.pdsc
-> 
+
 - EEPROM 24XX (AT24C64, ...)
 - https://github.com/nimaltd/STM32-PACK/raw/main/EE24/NimaLTD.I-CUBE-EE24.pdsc
 - WS28XX LED (WS2812B, ...)
