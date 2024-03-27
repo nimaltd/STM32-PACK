@@ -10,7 +10,7 @@
 ---
 ## Add the link to CubeMX and install the libraries
 ---
-> [SPI FLASH (W25Q128, ...)]
+> [!SPI FLASH (W25Q128, ...)]
 > https://github.com/nimaltd/STM32-PACK/raw/main/SPIF/NimaLTD.I-CUBE-SPIF.pdsc
 
 - EEPROM EMULATION - https://github.com/nimaltd/STM32-PACK/raw/main/EE/NimaLTD.I-CUBE-EE.pdsc
