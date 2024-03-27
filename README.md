@@ -10,15 +10,13 @@
 ---
 ## Add the link to CubeMX and install the libraries
 ---
-(
-- SPI FLASH (W25Q128, ...)
+-* SPI FLASH (W25Q128, ...)
 - https://github.com/nimaltd/STM32-PACK/raw/main/SPIF/NimaLTD.I-CUBE-SPIF.pdsc
-)
-- EEPROM EMULATION
+-* EEPROM EMULATION
 - https://github.com/nimaltd/STM32-PACK/raw/main/EE/NimaLTD.I-CUBE-EE.pdsc
-- EEPROM 24XX (AT24C64, ...)
+-* EEPROM 24XX (AT24C64, ...)
 - https://github.com/nimaltd/STM32-PACK/raw/main/EE24/NimaLTD.I-CUBE-EE24.pdsc
-- WS28XX LED (WS2812B, ...)
+-* WS28XX LED (WS2812B, ...)
 - https://github.com/nimaltd/STM32-PACK/raw/main/WS28XX/NimaLTD.I-CUBE-WS28XX.pdsc
-- RING BUFFER (CIRCULAR)
+-* RING BUFFER (CIRCULAR)
 - https://github.com/nimaltd/STM32-PACK/raw/main/RBUF/NimaLTD.I-CUBE-RBUF.pdsc
