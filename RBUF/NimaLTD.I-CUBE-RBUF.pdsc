@@ -5,8 +5,9 @@
     <description>Ring Buffer Library for STM32
 </description>
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/rbuf/</url>
-    <license>MY-LIB/LICENSE.txt</license>
+    <license>LICENSE.txt</license>
     <releases>
+        <release date="2024-03-27" version="2.0.0">- Rewriten</release>
         <release date="2024-03-26" version="1.0.0">- First Release
 - STM32 Pack Installition support</release>
     </releases>
