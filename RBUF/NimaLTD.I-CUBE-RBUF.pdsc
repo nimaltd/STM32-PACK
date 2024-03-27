@@ -4,7 +4,7 @@
     <name>I-CUBE-RBUF</name>
     <description>Ring Buffer Library for STM32
 </description>
-    <url>https://raw.githubusercontent.com/nimaltd/STM32-PACK/main/RBUF/NimaLTD.I-CUBE-RBUF.pdsc/</url>
+    <url>https://github.com/nimaltd/STM32-PACK/raw/main/RBUF/</url>
     <license>LICENSE.txt</license>
     <releases>
         <release date="2024-03-27" version="2.0.0">- Rewriten</release>
