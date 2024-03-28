@@ -13,7 +13,7 @@
 - SPI FLASH (W25Q128, ...) 
 - https://github.com/nimaltd/STM32-PACK/raw/main/SPIF/NimaLTD.I-CUBE-SPIF.pdsc
 -----
-- EEPROM EMULATION
+- EEPROM EMULATION (USING INTERNAL FLASH AS EEPROM)
 - https://github.com/nimaltd/STM32-PACK/raw/main/EE/NimaLTD.I-CUBE-EE.pdsc
 -----
 - EEPROM 24XX (AT24C64, ...)
