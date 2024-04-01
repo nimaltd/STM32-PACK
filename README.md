@@ -22,5 +22,5 @@
 - WS28XX LED (WS2812B, ...)
 - https://github.com/nimaltd/STM32-PACK/raw/main/WS28XX/NimaLTD.I-CUBE-WS28XX.pdsc
 ----- 
-- RING BUFFER (CIRCULAR)
+- RING BUFFER (CIRCULAR BUFFER)
 - https://github.com/nimaltd/STM32-PACK/raw/main/RBUF/NimaLTD.I-CUBE-RBUF.pdsc
