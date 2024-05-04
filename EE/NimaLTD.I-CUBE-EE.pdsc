@@ -6,6 +6,9 @@
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/EE/</url>
     <license>LICENSE.txt</license>
     <releases>
+        <release date="2024-05-04" version="3.1.0">- Added Verify after Writing
+- Added Checking Pointer in Reading/Writing
+- Removed erasing buffer and formating before write</release>
         <release date="2024-04-14" version="3.0.2">- Fixed Writing for F7B</release>
         <release date="2024-04-01" version="3.0.1">- Add Comments</release>
         <release date="2024-03-25" version="3.0.0">- Rewrite Again
