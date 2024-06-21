@@ -6,6 +6,7 @@
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/EE/</url>
     <license>LICENSE.txt</license>
     <releases>
+        <release date="2024-06-21" version="3.1.2">- Fixed H5 configuration</release>
         <release date="2024-06-16" version="3.1.1">- Fixed formating F4</release>
         <release date="2024-05-04" version="3.1.0">- Added Verify after Writing
 - Added Checking Pointer in Reading/Writing
