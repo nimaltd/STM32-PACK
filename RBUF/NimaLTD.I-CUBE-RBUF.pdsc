@@ -8,6 +8,7 @@
     <license>MY-LIB/LICENSE.txt</license>
     <releases>
         <release date="2024-06-27" version="2.1.0">- Added RBUF_Used(),RBUF_Format() functions</release>
+		<release date="2024-05-05" version="2.0.0">- Rewrite Again </release>
         <release date="2024-03-26" version="1.0.0">- First Release
 - STM32 Pack Installition support</release>
     </releases>
