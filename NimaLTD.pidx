@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<index xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd">
+    <vendor>NimaLTD</vendor>
+    <url>https://github.com/nimaltd/STM32-PACK/raw/main/NimaLTD.pidx</url>
+    <timestamp>2024-06-27T13:39:38.156161</timestamp>
+    <pindex>
+        <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/EE/" vendor="NimaLTD" name="I-CUBE-EE" version="3.1.2">
+            <description>EEPROM Emulation Driver for STM32</description>
+            <license>LICENSE.txt</license>
+            <keywords>
+                <keyword>CUBE_RULES_COMPLIANT</keyword>
+            </keywords>
+        </pdsc>
+        <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/EE24/" vendor="NimaLTD" name="I-CUBE-EE24" version="3.2.0">
+            <description>I2C EEPROM Driver for STM32</description>
+            <license>LICENSE.txt</license>
+            <keywords>
+                <keyword>IMPLEMENTED_WITH_STM32CUBEMX</keyword>
+                <keyword>CUBE_RULES_COMPLIANT</keyword>
+            </keywords>
+        </pdsc>
+        <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/RBUF/" vendor="NimaLTD" name="I-CUBE-RBUF" version="2.0.0">
+            <description>Ring Buffer Library for STM32</description>
+            <license>LICENSE.txt</license>
+            <keywords>
+                <keyword>CUBE_RULES_COMPLIANT</keyword>
+            </keywords>
+        </pdsc>
+        <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/SPIF/" vendor="NimaLTD" name="I-CUBE-SPIF" version="2.3.1">
+            <description>SPI Flash Driver for STM32</description>
+            <license>LICENSE.txt</license>
+            <keywords>
+                <keyword>IMPLEMENTED_WITH_STM32CUBEMX</keyword>
+                <keyword>CUBE_RULES_COMPLIANT</keyword>
+            </keywords>
+        </pdsc>
+        <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/WS28XX/" vendor="NimaLTD" name="I-CUBE-WS28XX" version="3.0.0">
+            <description>WS28XX LEDs Driver for STM32</description>
+            <license>LICENSE.txt</license>
+            <keywords>
+                <keyword>IMPLEMENTED_WITH_STM32CUBEMX</keyword>
+                <keyword>CUBE_RULES_COMPLIANT</keyword>
+            </keywords>
+        </pdsc>
+    </pindex>
+</index>
