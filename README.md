@@ -9,7 +9,7 @@
 -  Instagram:  https://instagram.com/github.NimaLTD  
 ---
 ## Add the link to CubeMX and install the libraries
-- ### ![#f03c15] All Libraries 
+- ### ![#f03c15] All Libraries `#f03c15` 
 - https://github.com/nimaltd/STM32-PACK/raw/main/NimaLTD.pidx
 ---
 ---  
