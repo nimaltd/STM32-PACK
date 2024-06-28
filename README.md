@@ -9,11 +9,10 @@
 -  Instagram:  https://instagram.com/github.NimaLTD  
 ---
 ## Add the link to CubeMX and install the libraries
-> [!NOTE]
+> [!TIP]
 > All Libraries
-- https://github.com/nimaltd/STM32-PACK/raw/main/NimaLTD.pidx
+> - https://github.com/nimaltd/STM32-PACK/raw/main/NimaLTD.pidx
 ---
----  
 - SPI FLASH (W25Q128, ...) 
 - https://github.com/nimaltd/STM32-PACK/raw/main/SPIF/NimaLTD.I-CUBE-SPIF.pdsc
 -----
