@@ -10,7 +10,7 @@
 ---
 ## Add the link to CubeMX and install the libraries
 > [!TIP]
-> All Libraries
+> - Install All Libraries
 > - https://github.com/nimaltd/STM32-PACK/raw/main/NimaLTD.pidx
 ---
 - SPI FLASH (W25Q128, ...) 
