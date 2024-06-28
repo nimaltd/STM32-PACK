@@ -19,7 +19,7 @@
                 <keyword>CUBE_RULES_COMPLIANT</keyword>
             </keywords>
         </pdsc>
-        <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/rbuf/" vendor="NimaLTD" name="I-CUBE-RBUF" version="2.1.0">
+        <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/RBUF/" vendor="NimaLTD" name="I-CUBE-RBUF" version="2.1.0">
             <description>Ring Buffer Library for STM32</description>
             <license>MY-LIB/LICENSE.txt</license>
             <keywords>
