@@ -2,7 +2,7 @@
 <index xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd">
     <vendor>NimaLTD</vendor>
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/NimaLTD.pidx</url>
-    <timestamp>2024-07-08T18:33:02.776276</timestamp>
+    <timestamp>2024-07-08T18:39:46.933779</timestamp>
     <pindex>
         <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/EE/" vendor="NimaLTD" name="I-CUBE-EE" version="3.1.3">
             <description>EEPROM Emulation Driver for STM32</description>
@@ -19,7 +19,7 @@
                 <keyword>CUBE_RULES_COMPLIANT</keyword>
             </keywords>
         </pdsc>
-        <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/rbuf/" vendor="NimaLTD" name="I-CUBE-RBUF" version="2.2.0">
+        <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/RBUF/" vendor="NimaLTD" name="I-CUBE-RBUF" version="2.2.0">
             <description>Ring Buffer Library for STM32</description>
             <license>MY-LIB/LICENSE.txt</license>
             <keywords>
