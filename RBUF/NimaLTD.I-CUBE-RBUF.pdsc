@@ -4,7 +4,7 @@
     <name>I-CUBE-RBUF</name>
     <description>Ring Buffer Library for STM32</description>
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/RBUF/</url>
-    <license>MY-LIB/LICENSE.txt</license>
+    <license>LICENSE.txt</license>
     <releases>
         <release date="2024-07-08" version="2.2.0">- Added RBUF_PushN(),RBUF_PopN() functions</release>
         <release date="2024-06-27" version="2.1.0">- Added RBUF_Used(),RBUF_Format() functions</release>
