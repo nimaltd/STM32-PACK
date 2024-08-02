@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package schemaVersion="1.7.7" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
+    <vendor>NimaLTD</vendor>
+    <name>I-CUBE-ATC</name>
+    <description>AT Command Driver for STM32</description>
+    <url>https://github.com/nimaltd/STM32-PACK/raw/main/ATC/</url>
+    <license>LICENSE.txt</license>
+    <releases>
+        <release date="2024-08-02" version="4.0.0">- Rewrite again
+- Working with RX/TX DMA, Less CPU load
+- A separate callback for each event received (auto searching string)
+- Support STM32CubeMx Packet installer</release>
+    </releases>
+    <keywords>
+        <keyword>CUBE_RULES_COMPLIANT</keyword>
+        <keyword>IMPLEMENTED_WITH_STM32CUBEMX</keyword>
+    </keywords>
+    <taxonomy>
+        <description Cclass="Driver">Driver</description>
+    </taxonomy>
+    <components>
+        <component Cclass="Driver" Cgroup="ATC" Cversion="1.0.0" maxInstances="1">
+            <description>AT Command Driver</description>
+            <files>
+                <file category="source" name="Middlewares/Third_Party/ATC/atc.c"/>
+                <file category="header" name="Middlewares/Third_Party/ATC/atc.h"/>
+            </files>
+        </component>
+    </components>
+</package>
