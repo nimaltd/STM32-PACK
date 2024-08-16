@@ -2,7 +2,7 @@
 <index xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd">
     <vendor>NimaLTD</vendor>
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/NimaLTD.pidx</url>
-    <timestamp>2024-08-06T21:56:11.016588</timestamp>
+    <timestamp>2024-08-16T19:06:33.505380</timestamp>
     <pindex>
         <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/ATC/" vendor="NimaLTD" name="I-CUBE-ATC" version="4.0.0">
             <description>AT Command Driver for STM32</description>
@@ -12,7 +12,7 @@
                 <keyword>IMPLEMENTED_WITH_STM32CUBEMX</keyword>
             </keywords>
         </pdsc>
-        <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/EE/" vendor="NimaLTD" name="I-CUBE-EE" version="3.2.0">
+        <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/EE/" vendor="NimaLTD" name="I-CUBE-EE" version="3.2.1">
             <description>EEPROM Emulation Driver for STM32</description>
             <license>LICENSE.txt</license>
             <keywords>

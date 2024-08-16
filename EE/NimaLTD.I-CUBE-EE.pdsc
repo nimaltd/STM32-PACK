@@ -6,6 +6,7 @@
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/EE/</url>
     <license>LICENSE.txt</license>
     <releases>
+        <release date="2024-08-16" version="3.2.1">- Fixed Selecting BANK for STM32W Series</release>
         <release date="2024-08-06" version="3.2.0">- Added Manual Configuration</release>
         <release date="2024-07-04" version="3.1.3">- Fixed L0, L1 configuration</release>
         <release date="2024-06-21" version="3.1.2">- Fixed H5 configuration</release>
