@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<package schemaVersion="1.7.2" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
+<package schemaVersion="1.7.7" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
     <vendor>NimaLTD</vendor>
     <name>I-CUBE-WS28XX</name>
     <description>WS28XX LEDs Driver for STM32</description>
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/WS28XX/</url>
     <license>LICENSE.txt</license>
     <releases>
+        <release date="2024-10-01" version="3.0.1">- Fixed blinger at first pixel</release>
         <release date="2024-03-18" version="3.0.0">- Rewritten
 - Supported CubeMx Packet installation </release>
     </releases>
