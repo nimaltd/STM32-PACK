@@ -6,14 +6,7 @@
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/ATC/</url>
     <license>LICENSE.txt</license>
     <releases>
-        <release date="2024-10-04" version="4.1.1">- Fixed RX Items counter</release>
-        <release date="2024-10-03" version="4.1.0">- Added ATC_Send and ATC_Receive functions
-- Changed declaration</release>
-        <release date="2024-09-02" version="4.0.1">- Fixed Initialization</release>
-        <release date="2024-08-02" version="4.0.0">- Rewrite again
-- Working with RX/TX DMA, Less CPU load
-- A separate callback for each event received (auto searching string)
-- Support STM32CubeMx Packet installer</release>
+        <release date="2024-10-14" version="4.1.2">- Fixed Definitions</release>
     </releases>
     <keywords>
         <keyword>CUBE_RULES_COMPLIANT</keyword>
