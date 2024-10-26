@@ -6,6 +6,8 @@
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/ATC/</url>
     <license>LICENSE.txt</license>
     <releases>
+        <release date="2024-10-26" version="4.2.1">- Fixed Debug
+- Removed Temp Callback :)</release>
         <release date="2024-10-20" version="4.2.0">- Fixed Returned response
 - Added Temp Callback</release>
         <release date="2024-10-14" version="4.1.2">- Fixed Definitions</release>
