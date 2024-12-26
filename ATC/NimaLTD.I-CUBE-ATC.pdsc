@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<package schemaVersion="1.7.7" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
+<package schemaVersion="1.7.40" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
     <vendor>NimaLTD</vendor>
     <name>I-CUBE-ATC</name>
     <description>AT Command Driver for STM32</description>
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/ATC/</url>
     <license>LICENSE.txt</license>
     <releases>
+        <release date="2024-12-26" version="4.2.2">- Fixed set event</release>
         <release date="2024-10-26" version="4.2.1">- Fixed Debug
 - Removed Temp Callback :)</release>
         <release date="2024-10-20" version="4.2.0">- Fixed Returned response
