@@ -3,7 +3,7 @@
     <vendor>NimaLTD</vendor>
     <name>NimaLTD-TM1637</name>
     <description>TM1637 Library (7-SEG)</description>
-    <url>https://github.com/nimaltd/STM32-PACK/TM1637/</url>
+    <url>https://github.com/nimaltd/STM32-PACK/raw/main/TM1637/</url>
     <license>LICENSE.TXT</license>
     <supportContact>nima.askari@gmail.com</supportContact>
     <releases>

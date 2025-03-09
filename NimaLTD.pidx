@@ -2,7 +2,7 @@
 <index xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd">
     <vendor>NimaLTD</vendor>
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/NimaLTD.pidx</url>
-    <timestamp>2025-03-09T15:05:51.405263</timestamp>
+    <timestamp>2025-03-09T15:12:16.806087</timestamp>
     <pindex>
         <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/ATC/" vendor="NimaLTD" name="I-CUBE-ATC" version="4.2.2">
             <description>AT Command Driver for STM32</description>
@@ -43,7 +43,7 @@
                 <keyword>CUBE_RULES_COMPLIANT</keyword>
             </keywords>
         </pdsc>
-        <pdsc url="https://github.com/nimaltd/STM32-PACK/TM1637/" vendor="NimaLTD" name="NimaLTD-TM1637" version="2.0.0">
+        <pdsc url="https://github.com/nimaltd/STM32-PACK/raw/main/TM1637/" vendor="NimaLTD" name="NimaLTD-TM1637" version="2.0.0">
             <description>TM1637 Library (7-SEG)</description>
             <license>LICENSE.TXT</license>
             <keywords>
