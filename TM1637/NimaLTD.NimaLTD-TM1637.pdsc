@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package schemaVersion="1.7.40" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
+    <vendor>NimaLTD</vendor>
+    <name>NimaLTD-TM1637</name>
+    <description>TM1637 Library (7-SEG)</description>
+    <url>https://github.com/nimaltd/STM32-PACK/TM1637/</url>
+    <license>LICENSE.TXT</license>
+    <supportContact>nima.askari@gmail.com</supportContact>
+    <releases>
+        <release date="2025-03-09" version="2.0.0">- Rewrite
+- Support printf
+- Update License</release>
+    </releases>
+    <keywords>
+        <keyword>CUBE_RULES_COMPLIANT</keyword>
+        <keyword>IMPLEMENTED_WITH_STM32CUBEMX</keyword>
+    </keywords>
+    <taxonomy>
+        <description Cclass="Library">Library</description>
+    </taxonomy>
+    <components>
+        <component Cclass="Library" Cgroup="TM1637" Cversion="1.0.0" maxInstances="1">
+            <description>TM1637 Driver</description>
+            <files>
+                <file category="source" name="Middlewares/Third_Party/TM1637/tm1637.c"/>
+                <file category="header" name="Middlewares/Third_Party/TM1637/tm1637.h"/>
+            </files>
+        </component>
+    </components>
+</package>
