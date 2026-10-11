@@ -6,6 +6,7 @@
     <url>https://github.com/nimaltd/STM32-PACK/raw/main/SPIF/</url>
     <license>LICENSE.txt</license>
     <releases>
+        <release date="2026-09-27" version="2.3.3">- Fixed FreeRTOS.h include casing for case-sensitive filesystems</release>
         <release date="2024-07-08" version="2.3.2">- Fixed SPIF_Read() offset. Fixed ISSI ID</release>
         <release date="2024-03-09" version="2.3.0">- Added ThreadX Configuration</release>
         <release date="2024-02-25" version="2.2.2">Fix compile error</release>
